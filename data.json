@@ -1,0 +1,116 @@
+{
+  "MegaCursach": [
+    {
+      "MagazinName": "Кулиничи",
+      "adresa": "м.Харків, р-н Пукакантеса, прос. Геогрія Пельменника, 12",
+      "kontakti": "+38 057 775 92 88, +38 057 740 34 76",
+      "chasroboti": "08:00 – 20:00",
+      "formavlasnosti": "Приватні Підприємства",
+      "specializacia": "Хлібобулочні вироби"
+    },
+    {
+      "MagazinName": "Делікат",
+      "adresa": "м.Черкаси, р-н Марка, вул. Смілива, 69",
+      "kontakti": "+38 080 075 50 45",
+      "chasroboti": "8:00 - 23:00",
+      "formavlasnosti": "ФОП",
+      "specializacia": "Продуктовий магазин"
+    },
+    {
+      "MagazinName": "Сільпо",
+      "adresa": "м.Київ, р-н Шевченківський, вул. Олеся Гончара, 96",
+      "kontakti": "+38 080 030 17 07",
+      "chasroboti": "07:00 – 00:00",
+      "formavlasnosti": "Приватні Підприємства",
+      "specializacia": "Супермаркет"
+    },
+    {
+      "MagazinName": "Аврора",
+      "adresa": "м.Вінниця, р-н Папічевського, вул. Максима Шимка, 7",
+      "kontakti": "+38 080 030 00 66",
+      "chasroboti": "08:00 – 20:00",
+      "formavlasnosti": "Приватні Підприємства",
+      "specializacia": "Дрібні товари для дому"
+    },
+    {
+      "MagazinName": "Чайгород",
+      "adresa": "м.Полтава, р-н Галушкінська, вул. Соборності, 76",
+      "kontakti": "+38 095 184 10 61",
+      "chasroboti": "08:00 - 19:00",
+      "formavlasnosti": "ФОП",
+      "specializacia": "Чайна продукція"
+    },
+    {
+      "MagazinName": "Посад",
+      "adresa": "м.Харків, р-н Індустріальний, вул. Миру, 74",
+      "kontakti": "+38 080 050 08 33",
+      "chasroboti": "07:00–22:00",
+      "formavlasnosti": "ФОП",
+      "specializacia": "Супермаркет"
+    },
+    {
+      "MagazinName": "ЛотОК",
+      "adresa": "м.Київ, р-н Подольский, вул. Зоологіна, 8",
+      "kontakti": "+38 080 050 85 04",
+      "chasroboti": "07:00–22:00",
+      "formavlasnosti": "ФОП",
+      "specializacia": "Магазин продуктів"
+    },
+    {
+      "MagazinName": "ЕКО-маркет",
+      "adresa": "м.Вінниця, р-н , просп. Коцюбинського, 70",
+      "kontakti": "+38 080 050 20 55",
+      "chasroboti": "08:00 - 22:00",
+      "formavlasnosti": "Приватні Підприємства",
+      "specializacia": "Супермаркет"
+    },
+    {
+      "MagazinName": "Файно маркет",
+      "adresa": "м.Черкаси, р-н Веселий, вул. Святителя-хірурга Луки, 5",
+      "kontakti": "+38 050 457 17 60",
+      "chasroboti": "07:00–20:00",
+      "formavlasnosti": "Приватні Підприємства",
+      "specializacia": "Продуктовий магазин"
+    },
+    {
+      "MagazinName": "Dmart",
+      "adresa": "м.Дніпро, р-н Соборний, вул. Ламана, 2",
+      "kontakti": "+38 066 574 23 60",
+      "chasroboti": "08:00–22:00",
+      "formavlasnosti": "Приватні Підприємства",
+      "specializacia": "Супермаркет"
+    },
+    {
+      "MagazinName": "Честор",
+      "adresa": "м.Одеса, р-н Пересипський, Каретний провулок, 17",
+      "kontakti": "+38 048 234 15 81",
+      "chasroboti": "08:00–23:00",
+      "formavlasnosti": "Приватна",
+      "specializacia": "Продуктовий магазин"
+    },
+    {
+      "MagazinName": "Копійка",
+      "adresa": "м.Одеса, р-н Пересипський, вул. Асташкіна, 29",
+      "kontakti": "+38 048 740 71 70",
+      "chasroboti": "07:00–23:00",
+      "formavlasnosti": "Приватна",
+      "specializacia": "Продуктовий магазин"
+    },
+    {
+      "MagazinName": "Апельмон",
+      "adresa": "м.Запоріжжя, вулиця Богдана Хмельницького, 12",
+      "kontakti": "+38 080 040 50 30",
+      "chasroboti": "08:00–22:00",
+      "formavlasnosti": "ФОП",
+      "specializacia": "Продуктовий магазин"
+    },
+    {
+      "MagazinName": "Бункер",
+      "adresa": "м.Харків, р-н Андрій, вул. Давида, 12",
+      "kontakti": "+38 080 040 50 30",
+      "chasroboti": "08:00–22:00",
+      "formavlasnosti": "ФОП",
+      "specializacia": "Продуктовий магазин"
+    }
+  ]
+}
